@@ -6,7 +6,7 @@
 - 🌱 Currently exploring: **Machine Learning, Deep Learning & MERN Stack**
 - 🏆 **Smart India Hackathon (SIH) participant** — AI-driven clinical documentation systems
 - 💬 Ask me about **Python, React, TypeScript, Node.js, and Data Analytics**
-- 📫 How to reach me: **your.email@example.com** *(← replace with your real email)*
+- 📫 How to reach me: **gunjansah63@gmail.com**
 - ⚡ Fun fact: I turn messy data and messy requirements into clean, working products.
 
 ### 🛠️ Tech Stack
