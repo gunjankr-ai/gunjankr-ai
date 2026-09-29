@@ -1,29 +1,180 @@
-# Hi there, I'm Gunjan Kumar 👋
+👋 Hi there, I'm Gunjan Kumar
 
-**Data Science & AI Engineer | Full-Stack Developer**
+Software Engineer | Data Science & AI Engineer | Full-Stack Developer
 
-- 🔭 I'm currently building **AI-powered web applications** (healthcare, e-commerce, and education)
-- 🌱 Currently exploring: **Machine Learning, Deep Learning & MERN Stack**
-- 🏆 **Smart India Hackathon (SIH) participant** — AI-driven clinical documentation systems
-- 💬 Ask me about **Python, React, TypeScript, Node.js, and Data Analytics**
-- 📫 How to reach me: **your.email@example.com** *(← replace with your real email)*
-- ⚡ Fun fact: I turn messy data and messy requirements into clean, working products.
+Welcome to my GitHub! I build intelligent, data-driven web applications — from AI-powered healthcare platforms to full-stack e-commerce systems. I love turning complex problems into clean, maintainable, and scalable products.
 
-### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
+🧑‍💻 About Me
 
-![Gunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjankr-ai&show_icons=true&theme=default)
+name: Gunjan Kumar
+role: Software Engineer & AI Engineer
+location: India
+education: Data Science & AI Engineering
+current_focus: Machine Learning, Deep Learning, MERN Stack
+hackathon: Smart India Hackathon (SIH) Participant
+coding_philosophy: "Clean code. Clear docs. Working products."
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjankr-ai&layout=compact)
 
----
+
+
+
+🔭 I'm currently building AI-powered web applications across healthcare, e-commerce, and education
+
+
+
+🏆 Smart India Hackathon (SIH) participant — building AI-driven clinical documentation and patient case-taking systems
+
+
+
+🌱 Currently exploring: Machine Learning, Deep Learning, and the MERN Stack
+
+
+
+🤝 Open to collaborate on: open-source AI projects, full-stack web apps, and hackathons
+
+
+
+💬 Ask me about: Python, React, TypeScript, Node.js, Express, SQLite, and Data Analytics
+
+
+
+📫 How to reach me: your.email@example.com (← replace with your real email)
+
+
+
+📄 Know more about my work: My_Portfolio_Link (← replace with your portfolio URL)
+
+
+
+⚡ Fun fact: I turn messy data and messy requirements into clean, working products.
+
+
+
+🛠️ Tech Stack
+
+Languages
+
+Python
+JavaScript
+TypeScript
+SQL
+
+Frontend
+
+React
+Vite
+Tailwind CSS
+HTML5
+CSS3
+
+Backend & Databases
+
+Node.js
+Express
+SQLite
+
+AI & Data
+
+Pandas
+NumPy
+scikit-learn
+TensorFlow
+
+Tools & Platforms
+
+Git
+GitHub
+VS Code
+Vercel
+
+
+
+📈 GitHub Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Featured Projects
+
+🤖 AI Resume Analyzer
+
+Full-stack AI web application that analyzes resumes, scores them against job descriptions, and suggests improvements.
+Tech: React · TypeScript · Node.js · LLMs
+
+🏥 SIH-Hackethone & SIH26047
+
+Smart India Hackathon projects — AI-powered clinical history capture, patient case-taking, and medical document intake systems that streamline workflows for healthcare professionals.
+Tech: React · Node.js · Express · SQLite
+
+🎓 Student-Management-App
+
+A complete, modern student management application with CRUD operations, search, and a clean UI.
+Tech: Node.js · Express · SQLite · React (Vite) · Tailwind CSS
+
+🛒 E-Commerce
+
+A modern e-commerce web application with product catalog, shopping cart, and checkout flow.
+Tech: React · TypeScript
+
+📚 Library-Management-System
+
+A library management system for book issue/return tracking, member records, and reporting.
+
+🌐 Web_Dev0.2
+
+A collection of my minor and major web development projects with live demos and deployment details.
+
+🐍 Python-Tutorial
+
+A beginner-friendly Python tutorial covering fundamentals, data structures, OOP, file handling, and practical examples — documenting my Data Science & AI learning journey.
+
+💼 Personal_PortFolio
+
+My personal portfolio website showcasing my projects, skills, and journey as a developer.
+Tech: React · TypeScript
+
+
+
+📊 What I'm Up To
+
+
+
+
+
+🧪 Experimenting with LLM-powered applications and prompt engineering
+
+
+
+📚 Writing beginner-friendly tutorials to help others learn Python and web development
+
+
+
+🏃 Participating in hackathons and building solutions to real-world problems
+
+
+
+📫 Let's Connect
+
+LinkedIn
+Email
+Portfolio
+
+
+
+
+
+“First, solve the problem. Then, write the code.” — John Johnson
+
+Profile Views
+
